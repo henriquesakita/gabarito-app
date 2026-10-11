@@ -1,0 +1,6 @@
+{
+  "name": "Simulado SARESP - 24 questões",
+  "rows": 2, "cols": 12, "alternatives": "ABCDE",
+  "cell_w": 120, "cell_h": 100,
+  "letter_x0": 0.40, "letter_x1": 0.98, "letter_y0": 0.05, "letter_y1": 0.95
+}
