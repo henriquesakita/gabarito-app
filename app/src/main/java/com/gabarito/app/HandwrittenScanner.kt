@@ -11,7 +11,7 @@ import org.opencv.android.Utils
 import org.opencv.core.*
 import org.opencv.imgproc.Imgproc
 
-/** Descrição do modelo de folha, lida de assets/templates/*.json (ordem das questões: linha a linha). */
+/** Descrição do modelo de folha, lida de assets/templates (arquivos JSON) (ordem das questões: linha a linha). */
 data class SheetTemplate(
     val name: String, val rows: Int, val cols: Int, val alternatives: String,
     val cellW: Int, val cellH: Int, val x0: Double, val x1: Double, val y0: Double, val y1: Double
